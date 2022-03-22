@@ -1,0 +1,9 @@
+# Background 
+## EBV is a viral vector that can get into and replicate in mammalian cells. We will be using it to transfect a number of cells with R-loop prone plasmids an see how, and where they form R loops 
+## R-loops can get into chromatin and make R-loops as long as it is in the correct orientation (Chedin. 2012). 
+## We are going to use HEKI 293c18 cells. These are resistant to both Amp and Hygromycin and so we will use 200 ng/ml hydromycin buffer to grow out cells in 
+## After cells are transfected with plasmids, will will use Hirt Harvetro to harvest DNA 
+## After that, SMRF seq can be used to determine location of R-loops 
+#Prep of materials 
+##plasmids used 
+###
