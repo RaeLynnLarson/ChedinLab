@@ -1,0 +1,8 @@
+HEK 293 cells
+## derived from the immortalised cells of aborted/miscarried human embryonic kidneys. Stabilized via repeated cloning and viral genome incorperation of adenovirus (4.5 kb insertion from left arm of viral genome into chr 19). Orgin of HEK cell is unclear, most likly an immature neruon or epithelial cell (hard to tell because of the adenovirus addition)  
+## known to be good with transfection (introduction of foreign DNA into mammalian cells). 
+[^1] this is not transformation, which referes to the uptake of genetic material from the suroundings of plant, yeast or bacterial 
+## geneome is weird. Exhibits a phenomena called hypotriploid: contains fewer than three chromosomes 
+###(Bylund, L., Kytölä, S., Lui, W. O., Larsson, C., & Weber, G. (2004). Analysis of the cytogenetic stability of the human embryonal kidney cell line 293 by cytogenetic and STR profiling approaches. Cytogenetic and genome research, 106(1), 28-32.). Used STRs to establish which chr are aborant. Colonal varition can happen.
+##application: grown in suspension cultures. Can be used for transfection (best method was told to be Ca++ K+ processing) or adenoviral vector propagation. 
+## I am still trying to find what type of processing we are going to be useing exactly. I will try to get an answer from Taylsa later. 
