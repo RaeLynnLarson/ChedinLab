@@ -6,12 +6,12 @@
 ####  After that, SMRF seq can be used to determine location of R-loops 
 #Prep of materials 
 ##plasmids used 
-| Plasmid | OD260 in ng/ul| 
-|--------|--------|
-| pFC19 | 385.8 |
-| pFC30 | 1000 | 
-| pFC61 | 277.9 |
-| pFC66 | 106 | 
+| Plasmid | OD260 in ng/ul| amount needed for 1,5k ng transfection |
+|--------|--------|-------|
+| pFC19 | 385.8 | 3.888 ul |
+| pFC30 | 1000 | 1.5 ul |
+| pFC61 | 277.9 | 5.4 ul |
+| pFC66 | 106 | 14.15 ul |
 ### plasmids were OD260nm'ed and the results are shown above. 
 ### Samples where then digeted with 0.5 ul ECORi and 1 ul 2.1 NEB buffer for >20 min at 37 C. After that the samples were gel electrophoresised in 0.8x gel at 70 V for > 30 min. 1 kb ladder was provided 
 ###all plasmids in the past show R-loop under phage promoter
