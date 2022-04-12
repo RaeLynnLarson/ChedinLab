@@ -1,6 +1,4 @@
 ## Background 
-####Questions: what will happen when we increase the plasmid size from the normal 3.5kb to 10x increase (both supercoiled at same density). If R-loops are there to relax supercoils, we should see an increase in supercoils. Do R-loops have a size limit? (# of supercoils affect the length, number, and formation of R-loops)
-####this will be the in vivo side of the experiment to compare to the in vitro side. 
 #### EBV is a viral vector that can get into the chromatin and replicate in mammalian cells. We will be using it to transfect a number of cells with R-loop prone plasmids an see how, and where they form R loops 
 #### R-loops can get into chromatin and make R-loops as long as it is in the correct orientation (Chedin. 2012). 
 #### We are going to use HEKI 293c18 cells. These are resistant to both Amp and Hygromycin and so we will use 200 ng/ml hydromycin buffer to grow out cells in 
@@ -20,6 +18,8 @@
 ![plasmids after digest on gel!](C:\Users\rchll\Downloads\School stuff.jpg "3-22-22")
 ####*Note: the image above shows no smear on the bands, showing little to no DNA degredation during storage. This is important because this DNA was quite old (~20 yrs) and was in cold storage. The first vial (second lane) shows less product than the rest of the lanes. This has been chalked up to sampling error due to the age of the DNA.* 
 ###Plasmids were shown to be in good condition. Next steps include preparing and transfecting the cells. 
-##overview: 
-#### we take the HEK cells and we transfect them with plasmids. after growth we collect the DNA with HIRT harvest. Then we run the plamsids on a gel/clean and control. then we use SMRF seq to find the R loops. 
+
+##Overview: 
+####Questions: what will happen when we increase the plasmid size from the normal 3.5kb to 10x increase (both supercoiled at same density). If R-loops are there to relax supercoils, we should see an increase in supercoils. Do R-loops have a size limit? (# of supercoils affect the length, number, and formation of R-loops). This will be the in vivo side of the experiment to compare to the in vitro side. 
+#### Procedure: Take the HEK cells and we transfect them with plasmids. after growth we collect the DNA with HIRT harvest. Then we run the plamsids on a gel/clean and control. then we use SMRF seq to find the R loops. 
 #### controls: pFC9 (or any pEH plasmid) can work as negative control since they have no mammalian promoter, only phage. Possitive control is weird, perhaps we can use a past study to find a nice postive control?? 
