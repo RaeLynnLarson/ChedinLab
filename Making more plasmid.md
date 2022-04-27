@@ -20,3 +20,19 @@
 - [ ] rescue cells and mix them thorogly. plate 1/2 (250 uL) the vial onto each plate and leave over night.
 
 #### Notes (4/26): plasmids pFC19, pFC30, pFC61 and pFC9 all had to be dilluted 10x in order to be in usuable concentrations. Cells were definentatly on ice for too long. IMPORTANT: I forgot to label the cell vials before putting them on ice, so I will have to decypher who is who on the gel. 
+
+## 4-27-2022
+#### Checked on colonies. All colonies show transfection but two show worse confluency than others. Don't know which two because I mixed up the labels yesterday. I will have to carefully plan a restriction gel in order to ID the genes correctly. 
+#### All plasmid colonies will be allowed to grow overnight in 150 mL of 100 ug/ml of LB. Plasmid midiprep will happen tomorrow. 
+
+## 4-28-22
+#### plasmid midiprep
+## steps: 
+- [ ] transfer culture to centrifugable tubes and spin cells down at 6k rpn for 6 min. Discard supernatant 
+- [ ] add 4 mLs of solution I and resuspend pellets in it via vortexing. Let rest at RT for 5 to 10 min 
+- [ ] add 8 mL of solution II and mix via inversion 4-6 times. place tubes on ice and vortex for 5 min
+- [ ] add 6 mL of solution III and mix via inversion 4-6 times. Incubate on ice for 10 min. 
+- [ ] centrifuge cells for 10 min at 10k rpm at 4 degrees celcius 
+- [ ] transfer supernant to new tube and add 1 vol isopropanol 100% and mix 
+- [ ] recentrifuge for 10 min at 14k rpm for at 4 degrees celcius. Discard supernatant and wash pellet in 5 mL 70% EtOH. Note: if you wish, you can repeat this step twice or thrice. Just be careful about the pelet at the bottom and do not disturb it. 
+- [ ] Dry pellet (in 55 degree C oven is fine) and resuspend in TE
