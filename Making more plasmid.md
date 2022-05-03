@@ -55,3 +55,19 @@
 - Centrifuge at 14,000 rpm for 10 min at 4°C.
 - Wash twice with 70% ethanol.
 - Dry the pellet and dissolve in 500µl of 10 mM Tris HCl pH 7.5.
+#### Phenol Chloroform extractoin 
+- wear full PPE and use fume hood when using phenol! 
+- adjust sample volume to 200 uL and pro K digest if nessisary 
+- get yello grease tubes from cabnet. Label and add sample to them. 
+- add a 1 to 1 dilution of phenol in the hood 
+[^1]: phenol is stored in a bilayer so it doesn't evaporate too much. Please take the phenol from the bottom layer of the stock solution in the 4 degree fridge
+- once phenol and sample are together, invert 4 to 6 x and spin at 12 k for 5 min 
+- EtOH precip to concentrate DNA 
+#### EtOH precip
+- Transfer the supernatant to a new tube; add 2.2x V of 100% EtOH + 0.1x V NaAcetate and + 2 uL of glycogen; mix by inversion.
+- put samples in -20 fridge for 1 hour or -80 for 30 min 
+- Centrifuge for 10min. at 14,000rpm at 4°C.
+- Discard supernatant.  Wash the pellets with 500 µl  of 70% ethanol.
+- Dry the pellets and dissolve the DNA in 50-100µl of TE, as desired.
+
+
