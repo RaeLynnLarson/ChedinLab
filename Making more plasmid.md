@@ -54,7 +54,7 @@
 - Add 2.2 volume of ethanol 100%; mix by inverting.
 - Centrifuge at 14,000 rpm for 10 min at 4°C.
 - Wash twice with 70% ethanol.
-- Dry the pellet and dissolve in 500µl of 10 mM Tris HCl pH 7.5.
+- Dry the pellet and dissolve in 500µl of 10 mM Tris HCl pH 7.5 or TE
 #### Phenol Chloroform extractoin 
 - wear full PPE and use fume hood when using phenol! 
 - adjust sample volume to 200 uL and pro K digest if nessisary 
