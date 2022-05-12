@@ -41,8 +41,12 @@
  #### issues: someone turned off the spiny thing in the 37 degree room. It only affected colony three, which later on the gel showed a lesser concentration. 
  ## 5-3-22 Gel, RNase A treatment, and LiCl prep 
  ![image](https://user-images.githubusercontent.com/102187801/166525384-39e282d9-c19b-450c-b8a1-3135aaab5d37.png)
+ *Note: image above shows that there is a lot of crap in the DNA. This was before the RNAseA treatment and the phenol chloroform treatment. Hopefully this solves the crap problem. Idk about vials 2 and 4, they seem pretty milky to me and I am wondering if I should just gel the whole batch if they don't respond well to the treatments* 
+ ## 5-6-22 Gel, after above treatments and phenol Chloroform extraction and EtOH preciptionation
+ ![hello](https://user-images.githubusercontent.com/102187801/168162336-3952e5a1-2af3-422b-90d7-9674cde14027.PNG)
+## 5-12-22 Gel, after above treatments + an extra 10 uL RNase A for an hour at 37 degrees 
 
-*Note: image above shows that there is a lot of crap in the DNA. This was before the RNAseA treatment and the phenol chloroform treatment. Hopefully this solves the crap problem. Idk about vials 2 and 4, they seem pretty milky to me and I am wondering if I should just gel the whole batch if they don't respond well to the treatments* 
+
 #### RNaseA treatment: 
 - 5 uL of RNAse A was added to each vial on 5/2. Then after 1 hour sitting at RT, they were refrozen. 
 #### LiCl
