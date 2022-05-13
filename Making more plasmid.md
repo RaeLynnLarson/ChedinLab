@@ -45,8 +45,8 @@
  ## 5-6-22 Gel, after above treatments and phenol Chloroform extraction and EtOH preciptionation
  ![hello](https://user-images.githubusercontent.com/102187801/168162336-3952e5a1-2af3-422b-90d7-9674cde14027.PNG)
 ## 5-12-22 Gel, after above treatments + an extra 10 uL RNase A for an hour at 37 degrees 
-
-
+![image](https://user-images.githubusercontent.com/102187801/168206981-185b4b1e-d447-4ebe-83c9-7317bf89c724.png)
+ *Much better!
 #### RNaseA treatment: 
 - 5 uL of RNAse A was added to each vial on 5/2. Then after 1 hour sitting at RT, they were refrozen. 
 #### LiCl
