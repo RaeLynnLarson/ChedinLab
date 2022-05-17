@@ -46,7 +46,8 @@
  ![hello](https://user-images.githubusercontent.com/102187801/168162336-3952e5a1-2af3-422b-90d7-9674cde14027.PNG)
 ## 5-12-22 Gel, after above treatments + an extra 10 uL RNase A for an hour at 37 degrees 
 ![image](https://user-images.githubusercontent.com/102187801/168206981-185b4b1e-d447-4ebe-83c9-7317bf89c724.png)
- *Much better!
+ *Much better! 
+ ##### From these gel pictures, i can tell that I is pFC9, II and V and pFC61 and 66, III is pFC30 and IV is pFC19 
 #### RNaseA treatment: 
 - 5 uL of RNAse A was added to each vial on 5/2. Then after 1 hour sitting at RT, they were refrozen. 
 #### LiCl
@@ -74,4 +75,12 @@
 - Discard supernatant.  Wash the pellets with 500 µl  of 70% ethanol.
 - Dry the pellets and dissolve the DNA in 50-100µl of TE, as desired.
 
+## New plasmid conc + what they are
 
+| Label | suspected plasmid | conc after 10x dillution | ammount needed for 2k ng transfection | A260/A280 |
+| ------ | ------ | ------ | ------ | ------ |
+| I | pFC9 | 533.9 | 3.74 uL | 1.87 (rather high) | 
+| II | pFC61/66 | 550 | 3.63 uL | 1.82 |
+| III | pFC30 | 2 | 100 uL (without 10x diliution) | N/A |
+| IV | pFC19 | 1033 | 2 uL | 1.88 |
+| V | pFC61/66 | 120 | 16.66 uL | 1.83 |
