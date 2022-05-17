@@ -1,12 +1,12 @@
 ## DharmaFECT transfection of mammalian cells
 [link to dharmafect protocol](https://horizondiscovery.com/-/media/Files/Horizon/resources/Protocols/dharmafect-kb-protocol.pdf)
 ### what is needed? 
-| Plasmid | OD260 in ng/ul| amount needed for 1,5k ng transfection |
+| Plasmid | OD260 in ng/ul| amount needed for 2k ug transfection |
 |--------|--------|-------|
-| pFC19 | 385.8 | 3.888 ul | 
-| pFC30 | 1000 | 1.5 ul |
-| pFC61 | 277.9 | 5.4 ul |
-| pFC66 | 106 | 14.15 ul |
+| pFC19 | 385.8 |5.18 ul | 
+| pFC30 | 1000 | 2 ul |
+| pFC61 | 277.9 |7.19 ul |
+| pFC66 | 106 | 18.86 ul |
 | pFC9 | N/A | N/A | 
 | GFP | N/A | N/A | 
 ### 2 to 4 micrograms of plasmid per a transfection. So for two of them I should probably make more of the four at least. Idk if I will actually need it, but that depends on how many rounds we do. Perhaps we get the first round done, watch for variation, and then make more if needed.
