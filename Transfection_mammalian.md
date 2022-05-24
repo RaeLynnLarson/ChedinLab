@@ -26,5 +26,10 @@
 - [ ] add 80 uL growth media to complex and mix 
 - [ ] get cell culture plate (must be at 70-90% confluent) and aspriate media. Then add 100 uL of tranfection reagent:DNA complex 
 - [ ] rock plate to acheive even distrubtion of complex across cells 
-- [ ] after first 24 hr, add medium containing antibiotic (200 ug/mL) 
+- [ ] after first 48 hr, add medium containing antibiotic (200 ug/mL) 
 - [ ] Check cells every day or so to see if any GFP expression occured. This will be our indicator of tranfection efficacy. 
+
+#### 5-24-22 
+- Cell transfection occured Friday with no significant problems. Hygromycin was added Saturday, and then expression was checked Tuesday (today). Cells show high confluency and low transfection rate (shown below). 
+[GFP-rh1-hek293c18-transmission.pdf](https://github.com/RaeLynnLarson/ChedinLab/files/8766204/GFP-rh1-hek293c18-transmission.pdf)
+[GFP-rh1-hek293c18-confluency.pdf](https://github.com/RaeLynnLarson/ChedinLab/files/8766205/GFP-rh1-hek293c18-confluency.pdf)
