@@ -46,9 +46,9 @@
 | V | pFC30 | 1152 | 4.34 ul |
 | VI | GFP | 266 | 18.8 ul | 
 
-- [ ] aspirate media and add 9.5 mL penstrep 
+- [ ] aspirate media and add 9.5 mL penstrep/strep free media 
 - [ ] get two sets of 1.5 mL tubes, and put 240 uL OptiMEM both 
-- [ ] in one set of tubes, add 1:1000 (10 uL) tubofectamine (stock) and the other add 4 uL plasmid (around l0 uL) 
+- [ ] in one set of tubes, add 1:1000 (10 uL) tubofectamine (stock) and the other add 4 ug plasmid
 - [ ] flick to mix (around 20x) and then incubate for 5 min (this time is so short just leave it during the nxt step)
 - [ ] Combine tubofectamine and plasmids, mix (simile) 
 - [ ] incubate for 20min at RT
