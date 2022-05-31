@@ -36,14 +36,15 @@
 
 #### 5-31-22 
 -transfecting cells today. Used 4k ng of DNA per a transfection. 
+.+
 | Numeral | Plasmid | OD260 in ng/ul| amount needed for 4k ng transfection |
 | ------- |--------|--------|-------|
-| I | pFC9 | 593 (10x dill.) | ul | 
-| II | pFC61/66 | 5045 (10x dill.) |  ul |
-| III | pFC61/66 | 495 (10x dill.) | ul |
-| IV | pFC19 | 351 |  ul |
-| V | pFC30 | 1152 |  |
-| VI | GFP | 266 |  | 
+| I | pFC9 | 593 (10x dill.) | 6.74 ul | 
+| II | pFC61/66 | 5045 (10x dill.) | 1 ul |
+| III | pFC61/66 | 495 (10x dill.) | 10 ul |
+| IV | pFC19 | 351 | 14.24 ul |
+| V | pFC30 | 1152 | 4.34 ul |
+| VI | GFP | 266 | 18.8 ul | 
 
 - [ ] aspirate media and add 9.5 mL penstrep 
 - [ ] get two sets of 1.5 mL tubes, and put 240 uL OptiMEM both 
