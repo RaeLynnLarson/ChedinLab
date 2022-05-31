@@ -33,3 +33,22 @@
 - Cell transfection occured Friday with no significant problems. Hygromycin was added Saturday, and then expression was checked Tuesday (today). Cells show high confluency and low transfection rate (shown below). 
 [GFP-rh1-hek293c18-transmission.pdf](https://github.com/RaeLynnLarson/ChedinLab/files/8766204/GFP-rh1-hek293c18-transmission.pdf)
 [GFP-rh1-hek293c18-confluency.pdf](https://github.com/RaeLynnLarson/ChedinLab/files/8766205/GFP-rh1-hek293c18-confluency.pdf)
+
+#### 5-31-22 
+-transfecting cells today. Used 4k ng of DNA per a transfection. 
+| Numeral | Plasmid | OD260 in ng/ul| amount needed for 4k ng transfection |
+| ------- |--------|--------|-------|
+| I | pFC9 | 593 (10x dill.) | ul | 
+| II | pFC61/66 | 5045 (10x dill.) |  ul |
+| III | pFC61/66 | 495 (10x dill.) | ul |
+| IV | pFC19 | 351 |  ul |
+| V | pFC30 | 1152 |  |
+| VI | GFP | 266 |  | 
+
+- [ ] aspirate media and add 9.5 mL penstrep 
+- [ ] get two sets of 1.5 mL tubes, and put 240 uL OptiMEM both 
+- [ ] in one set of tubes, add 1:1000 (10 uL) tubofectamine (stock) and the other add 4 uL plasmid (around l0 uL) 
+- [ ] flick to mix (around 20x) and then incubate for 5 min (this time is so short just leave it during the nxt step)
+- [ ] Combine tubofectamine and plasmids, mix (simile) 
+- [ ] incubate for 20min at RT
+- [ ] add mixture to plates. Expression should happen 24 to 48 hrs later
