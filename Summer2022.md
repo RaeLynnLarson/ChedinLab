@@ -16,19 +16,24 @@
 - ### 6-29-22: cells were passaged onto 6 six well plate and one 10 mL plate from p3 to p4. 0.5 mL of cells were plated on to a 10 mL plate for cell line maintanence and 250K cells into each of the six well one. Cell live count was 0.52E6 cells/mL, leading to the addition of 3.125 mL of solution of 10 mL of P/S free media, and 2 mL of that was added to each well. Cells were checked the next day where they were transfected. 
 
 - ### Ingredients 
-| plasmid | conc [ng/ul] | needed amount = 2000/conc |
+| Plate numeral | plasmid | conc [ng/ul] | needed amount = 2000/conc |
 | ----------- | ----------- | --------- |
-| pFC9 |  |  |
-| pFC19 |  |  |
-| pFC30 |  |  |
-| pFC61 |  |  |
-| pFC66 |  |  |
-| GFP |  |  |
+| pFC9 (I) | (10x dil.) 440 | 4.54 |
+| pFC19 (OG) | 217 | 9.21 |
+| pFC30 (OG) | 800 | 2.5 |
+| pFC61 (V) | (10x dil.) 413 | 4.84 |
+| pFC66 (II)| (10x dil.) 486 | 4.11 |
+| GFP | 1559 | 1.28 |
 
 ### Steps: 
 - Cells should be grown in P/S free media to get best transfection
 - Get two sets of 1.5 mL tubes, one for each plasmid and put 250 uL OptiMEM into it. 
-- Add 1 mL: 10 mL of plate media of lipofectamine to one set of tubes, and 2k ng of plasmid to the other. Adjust OptiMEM amount in previous step in order to keep the total fluid added to the dishes to be no more than 0.5 mL 
+- Add 1 mL: 10 mL of plate media of lipofectamine to one set of tubes, and 2k ng of plasmid + 2 uL/ug of P3000 reagent per ug DNA to the other. Adjust OptiMEM amount in previous step in order to keep the total fluid added to the dishes to be no more than 0.5 mL
+ 
+| Tube Ia | Tube Ib | Tube IIa | Tube IIb | Tube IIIa | Tube IIIb | Tube IVa | Tube IVb | Tube Va | Tube Vb | Tube VIa | Tube VIb | 
+| ----------- | ----------- | --------- | ----------- | ----------- | --------- | ----------- | ----------- | --------- | ----------- | ----------- | --------- |
+| 243.55 uL OptiMEM + 4.45 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect | 238.79 uL OptiMEM + 9.21 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect | 245.5 uL OptiMEM + 2.5 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect | 243.16 uL OptiMEM + 4.84 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect | 243.3 uL OptiMEM + 4.11 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect | 246.72 uL OptiMEM + 1.28 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect |
+
 - mix OptiMEM and ingredents 20x times and then incubate at RT for 5 min
 - mix the tubes together and mix another 20x times (spin down if needed). Let rest at RT for 20 min 
 - add mixture dropwise to the plates and incubate for 24 hours 
