@@ -11,23 +11,27 @@
 - cell passaging: cells grow logirthmically until they hit the max cell density for the plate; passaging should happen near when max density is reached. find culture and look for any signs of trouble [^3]. Remove the left over medium, and wash adhered cells in salt solution (NO Ca+ or Mg+), then remove and add cell disocciation fluid. use centrfugation to remove disossociation fluid 
 [^3]: cells are very delicate at this stage. please handle with care and keep them under liquid as much as possible. double check for both association to the plate and dissassication. Different dissociation serums have different strength and needs, so read the one your using and use something gentle. 
 - resuspend pellet in warm growth medium and prefom cell counting (if nessary), and get to optimal seeding density. add to flask (and allow for gas exchange) and evenly distribute cells for incubation.
+ 
 - [ ] transfect 6 of those plates 
+- ### 6-29-22: cells were passaged onto 6 six well plate and one 10 mL plate from p3 to p4. 0.5 mL of cells were plated on to a 10 mL plate for cell line maintanence and 250K cells into each of the six well one. Cell live count was 0.52E6 cells/mL, leading to the addition of 3.125 mL of solution of 10 mL of P/S free media, and 2 mL of that was added to each well. Cells were checked the next day where they were transfected. 
+
 - ### Ingredients 
-- 2 to 4 grams plamsid, including pFC19, pFC30, pFC61, pFC66, pFC9, and GFP 
--  6 (at least) 100 mm x 10 cm plates 
-- lots of hygromycin (200 ug/mL) 
-- serum-free growth media 
-- DharmaFECT kb reagent 
+| plasmid | conc [ng/ul] | needed amount = 2000/conc |
+| ----------- | ----------- | --------- |
+| pFC9 |  |  |
+| pFC19 |  |  |
+| pFC30 |  |  |
+| pFC61 |  |  |
+| pFC66 |  |  |
+| GFP |  |  |
 
 ### Steps: 
-- dillute cells in 10 uL serum-free growth media
-- gently mix DharmaFECT kb reagent via pipetting. Dilute reagent in 10 uL per plate serum-free growth media 
-- Add 10 uL dilute reagent to 10 uL dilute DNA for 20 uL solution. Incubate this for 10 min at room temp 
-- add 80 uL growth media to complex and mix 
-- get cell culture plate (must be at 70-90% confluent) and aspriate media. Then add 100 uL of tranfection reagent:DNA complex 
-- rock plate to acheive even distrubtion of complex across cells 
-- after first 48 hr, add medium containing antibiotic (200 ug/mL) 
-- Check cells every day or so to see if any GFP expression occured. This will be our indicator of tranfection efficacy. 
+- Cells should be grown in P/S free media to get best transfection
+- Get two sets of 1.5 mL tubes, one for each plasmid and put 250 uL OptiMEM into it. 
+- Add 1 mL: 10 mL of plate media of lipofectamine to one set of tubes, and 2k ng of plasmid to the other. Adjust OptiMEM amount in previous step in order to keep the total fluid added to the dishes to be no more than 0.5 mL 
+- mix OptiMEM and ingredents 20x times and then incubate at RT for 5 min
+- mix the tubes together and mix another 20x times (spin down if needed). Let rest at RT for 20 min 
+- add mixture dropwise to the plates and incubate for 24 hours 
 
 - [ ] Hirt harvest the DNA from those cells 
 - [ ] SMRF sequencing 
