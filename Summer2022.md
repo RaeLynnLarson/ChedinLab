@@ -17,18 +17,18 @@
 
 - ### Ingredients 
 | Plate numeral | plasmid | conc [ng/ul] | needed amount = 2000/conc |
-| ----------- | ----------- | --------- |
-| pFC9 (I) | (10x dil.) 440 | 4.54 |
-| pFC19 (OG) | 217 | 9.21 |
-| pFC30 (OG) | 800 | 2.5 |
-| pFC61 (V) | (10x dil.) 413 | 4.84 |
-| pFC66 (II)| (10x dil.) 486 | 4.11 |
-| GFP | 1559 | 1.28 |
+| ----------- | ----------- | --------- | --------- |
+| I | pFC9 (I) | (10x dil.) 440 | 4.54 |
+| II | pFC19 (OG) | 217 | 9.21 |
+| III | pFC30 (OG) | 800 | 2.5 |
+| IV | pFC61 (V) | (10x dil.) 413 | 4.84 |
+| V | pFC66 (II)| (10x dil.) 486 | 4.11 |
+| VI | GFP | 1559 | 1.28 |
 
 ### Steps: 
 - Cells should be grown in P/S free media to get best transfection
 - Get two sets of 1.5 mL tubes, one for each plasmid and put 250 uL OptiMEM into it. 
-- Add 1 mL: 10 mL of plate media of lipofectamine to one set of tubes, and 2k ng of plasmid + 2 uL/ug of P3000 reagent per ug DNA to the other. Adjust OptiMEM amount in previous step in order to keep the total fluid added to the dishes to be no more than 0.5 mL
+- Add 1:1000 lipofectamine uL:TV mL of plate media of lipofectamine to one set of tubes, and 2k ng of plasmid in the other. Adjust OptiMEM amount in previous step in order to keep the total fluid added to the dishes to be no more than 0.5 mL
  
 | Tube Ia | Tube Ib | Tube IIa | Tube IIb | Tube IIIa | Tube IIIb | Tube IVa | Tube IVb | Tube Va | Tube Vb | Tube VIa | Tube VIb | 
 | ----------- | ----------- | --------- | ----------- | ----------- | --------- | ----------- | ----------- | --------- | ----------- | ----------- | --------- |
@@ -37,6 +37,7 @@
 - mix OptiMEM and ingredents 20x times and then incubate at RT for 5 min
 - mix the tubes together and mix another 20x times (spin down if needed). Let rest at RT for 20 min 
 - add mixture dropwise to the plates and incubate for 24 hours 
+- ### 6/30/22 Today I transfected the cells with no major incedents. I will check on them tomorrow and the day after for tranfection efficency. If I see glowing GFP, then I will add 2.5 uL of 100 ug/mL hygromycin per a well. Fresh media will be supplied during the exchange 
 
 - [ ] Hirt harvest the DNA from those cells 
 - [ ] SMRF sequencing 
