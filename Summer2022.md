@@ -1,4 +1,4 @@
-#Stuff that needs to get done
+# Stuff that needs to get done
 - [ ] thaw cells 
 - prep: prewarm medium and cell culture flask (30 min). Get cells out of N2l and place in dry ice [^1] . thaw in 37 C [^2] bath without submerging until nearly all thawed. Clean the vial. 
  [^1]: remember to record the passage number, date, and name of the cell on both the N2 container and in your personal notes. 
