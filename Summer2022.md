@@ -39,6 +39,13 @@
 - add mixture dropwise to the plates and incubate for 24 hours 
 ### 6/30/22 Today I transfected the cells with no major incedents. I will check on them tomorrow and the day after for tranfection efficency. If I see glowing GFP, then I will add 2.5 uL of 100 ug/mL hygromycin per a well. Fresh media will be supplied during the exchange 
 ### 7/4/22 Hygromycin happened two days ago (2.5 uL was added per a 2.5 mL well). Cell death was observed. Cells were then passaged onto p5 with 1 mL of tripsin per a well. Cell counting was attempted to be used but when plated cells were observed under a microscope only dead cells were truly observed. It took 1 mL of 4 mL cell suspension per a dish in order to observe at least one live cell in a dish. Images of GFP cell expression before passaging is on phone. p4 10 mL dish of cells had its media exchanged, but I don't think it needed it. 
-### 
+![IMG-2998](https://user-images.githubusercontent.com/102187801/177635381-335a7a1c-20dd-4d0a-8540-b2d6c44aee5b.jpg)
+*Note: image above shows calculations of cell amount based on cell density. I know that then they were disregarded, but this is the only place I recorded the live cell density so I am saving it here* 
+![IMG-2997](https://user-images.githubusercontent.com/102187801/177635394-535d1399-14cd-434b-a52f-420cb35bd7e6.jpg)
+![IMG-2996](https://user-images.githubusercontent.com/102187801/177635465-04d56393-22df-4189-bc5d-b671641b4d65.jpg)
+
+### 7/6/22 Cells were grown in full media for 2 days and establishment did happen. After looking at GFP expression under microscope, it was decided to flush old media out of the wells, rinse with saline solution, and then be reselected for in hygromycin supplimented media. The 10 ml cells were passaged onto p5 today in full media. Images of GFP expression are shown below. 
+![HEK293c18hygro2](https://user-images.githubusercontent.com/102187801/177635961-096ecf9c-695a-4ec6-bc9e-393af81492d6.jpg)
+
 - [ ] Hirt harvest the DNA from those cells 
 - [ ] SMRF sequencing 
