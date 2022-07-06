@@ -32,7 +32,7 @@
  
 | Tube Ia | Tube Ib | Tube IIa | Tube IIb | Tube IIIa | Tube IIIb | Tube IVa | Tube IVb | Tube Va | Tube Vb | Tube VIa | Tube VIb | 
 | ----------- | ----------- | --------- | ----------- | ----------- | --------- | ----------- | ----------- | --------- | ----------- | ----------- | --------- |
-| 243.55 uL OptiMEM + 4.45 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect | 238.79 uL OptiMEM + 9.21 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect | 245.5 uL OptiMEM + 2.5 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect | 243.16 uL OptiMEM + 4.84 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect | 243.3 uL OptiMEM + 4.11 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect | 246.72 uL OptiMEM + 1.28 uL DNA + 2 uL P3000 | 247 uL OptiMEM + 3 uL lipofect |
+| 243.55 uL OptiMEM + 4.45 uL DNA | 247 uL OptiMEM + 3 uL lipofect | 238.79 uL OptiMEM + 9.21 uL DNA | 247 uL OptiMEM + 3 uL lipofect | 245.5 uL OptiMEM + 2.5 uL DNA | 247 uL OptiMEM + 3 uL lipofect | 243.16 uL OptiMEM + 4.84 uL DNA | 247 uL OptiMEM + 3 uL lipofect | 243.3 uL OptiMEM + 4.11 uL DNA | 247 uL OptiMEM + 3 uL lipofect | 246.72 uL OptiMEM + 1.28 uL DNA | 247 uL OptiMEM + 3 uL lipofect |
 
 - mix OptiMEM and ingredents 20x times and then incubate at RT for 5 min
 - mix the tubes together and mix another 20x times (spin down if needed). Let rest at RT for 20 min 
