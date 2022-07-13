@@ -51,7 +51,6 @@
 ![HEK293c18hygroII2](https://user-images.githubusercontent.com/102187801/178360122-9ba08add-85de-4a2f-9983-214c02d1e9cf.jpg)
 ### 7/13/22 Cells continue to grow. I washed out dead cells and old media with some saline and then reapplied new media + hygromycin (15 ml of DMEM + 15 uL of hygromycin with 1.5 mL of fluid per a well) Expression is still pressent but slight. Imegages taken before the wash shown below. 
 
-![HEK293c18hygroIII1](https://user-images.githubusercontent.com/102187801/178841973-46045fde-ce44-429e-b594-a069fa394130.jpg)
 ![HEK293c18hygroIII2](https://user-images.githubusercontent.com/102187801/178842002-b58be4af-7948-4c71-8d8e-32d7d2bf343c.jpg)
 
 - [ ] Hirt harvest the DNA from those cells 
