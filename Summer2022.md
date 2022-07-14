@@ -52,6 +52,11 @@
 ### 7/13/22 Cells continue to grow. I washed out dead cells and old media with some saline and then reapplied new media + hygromycin (15 ml of DMEM + 15 uL of hygromycin with 1.5 mL of fluid per a well) Expression is still pressent but slight. Imegages taken before the wash shown below. 
 
 ![HEK293c18hygroIII2](https://user-images.githubusercontent.com/102187801/178842002-b58be4af-7948-4c71-8d8e-32d7d2bf343c.jpg)
+### 7/14/22 Cells look wonderful! Small clumpings of cells observed, and when observed for GFP expression it was shown that each clumping had lots of GFP expression. Pictures are shown below. The cell line was passaged from p6 to p7. 
+![HEK293c18hyroIV1](https://user-images.githubusercontent.com/102187801/179071042-26f5f934-8fd1-4d93-b399-984b8a5b8c4f.jpg)
+![HEK293c18hygroIV2](https://user-images.githubusercontent.com/102187801/179071078-3f480602-aa5c-4a49-b209-1a74f8875c37.jpg)
+![HEK293c18hygroIV3](https://user-images.githubusercontent.com/102187801/179071136-3bb13677-0ea8-4c5b-bf12-b6fcc2fff165.jpg)
+![HEK293c18hygroIV4](https://user-images.githubusercontent.com/102187801/179071171-4a35871a-6683-45b1-b914-9ef6cf1a832a.jpg)
 
 - [ ] Hirt harvest the DNA from those cells 
 - [ ] SMRF sequencing 
