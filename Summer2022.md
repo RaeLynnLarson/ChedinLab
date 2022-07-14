@@ -57,6 +57,6 @@
 ![HEK293c18hygroIV2](https://user-images.githubusercontent.com/102187801/179071078-3f480602-aa5c-4a49-b209-1a74f8875c37.jpg)
 ![HEK293c18hygroIV3](https://user-images.githubusercontent.com/102187801/179071136-3bb13677-0ea8-4c5b-bf12-b6fcc2fff165.jpg)
 ![HEK293c18hygroIV4](https://user-images.githubusercontent.com/102187801/179071171-4a35871a-6683-45b1-b914-9ef6cf1a832a.jpg)
-
+### Next steps are to grow the cell colonies up. After this media is used up by the cells we will switch back to normal DMEM to give them the best chance at growth. Once splitting is needed, we can put the cells on 10 mL dishes. Check with Chedin about date of Hirt harvest, and amount of cells needed. 
 - [ ] Hirt harvest the DNA from those cells 
 - [ ] SMRF sequencing 
