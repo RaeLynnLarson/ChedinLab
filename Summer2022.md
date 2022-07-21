@@ -58,6 +58,11 @@
 ![HEK293c18hygroIV3](https://user-images.githubusercontent.com/102187801/179071136-3bb13677-0ea8-4c5b-bf12-b6fcc2fff165.jpg)
 ![HEK293c18hygroIV4](https://user-images.githubusercontent.com/102187801/179071171-4a35871a-6683-45b1-b914-9ef6cf1a832a.jpg)
 ### Next steps are to grow the cell colonies up. After this media is used up by the cells we will switch back to normal DMEM to give them the best chance at growth. Once splitting is needed, we can put the cells on 10 mL dishes. Check with Chedin about date of Hirt harvest, and amount of cells needed. 
+### 7/20/22 Cells had media exchanged on Sunday for fresh DMEM. Looking at them now, plates II and III show conflueny while the rest show barely any growth at all. If I had to guess, the confluent plates are not properly selected for. I am going to re-select with some hygromycin again. Images of plate II and VI below. 10 mL plate was split as well. 
+### 7/21/22 Cells had media exchanged again. Just wanted to make for sure the cell death was swept away daily. More hygromycin and saline wash. Cells looked like below (Dishes II and VI) 
+![HEK293c18 7-21 I](https://user-images.githubusercontent.com/102187801/180303226-9a450fa9-a276-46f9-a0a4-dfcf328ee31c.jpg)
+![HEK293c18 7-21 II](https://user-images.githubusercontent.com/102187801/180303254-da647c0d-7c65-48af-af89-0fbd1b18e389.jpg)
+![HEK293c18 7-21 III](https://user-images.githubusercontent.com/102187801/180303276-85af9cd6-8fa7-4dec-a314-2630ad75db35.jpg)
 
 - [ ] Hirt harvest the DNA from those cells 
 
