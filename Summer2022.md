@@ -63,7 +63,7 @@
 ![HEK293c18 7-21 I](https://user-images.githubusercontent.com/102187801/180303226-9a450fa9-a276-46f9-a0a4-dfcf328ee31c.jpg)
 ![HEK293c18 7-21 II](https://user-images.githubusercontent.com/102187801/180303254-da647c0d-7c65-48af-af89-0fbd1b18e389.jpg)
 ![HEK293c18 7-21 III](https://user-images.githubusercontent.com/102187801/180303276-85af9cd6-8fa7-4dec-a314-2630ad75db35.jpg)
-
+### 7/23 after checking for GFP expression, I officially split the first happy colonies into 10 mL dishes. This inlcudes colonies II and IV. III looked confluent, but I fear I may have left it out for too long. I was not feeling very well yesterday, so didn't go to lab, but I probably should have split colony three then. Anyways, pics of GFP expression below. I simply changed the media twice for colony III 
 - [ ] Hirt harvest the DNA from those cells 
 
 ### For R-loops do not vortex or heat 
