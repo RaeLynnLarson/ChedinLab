@@ -1,0 +1,2 @@
+## 8/15 Cells have been transfected on friday and allowed to sit in tranfection solution over the weekend. When I looked at them under the GFP microscope, I saw plently of colony growth on both plates. Pics below. No notable differnece in GFP expression between the GFP colony and the non-GFP colony. Non-transfected cells were not observed. 
+-Cell had 2 ml of a 1:1000 hygromycin:DMEM mixture pipetted onto them after a saline wash. Cell cultures where very confluent, so hopefully I am on their ass for the rest of the experiment. 
