@@ -6,3 +6,10 @@
 #### GFP expression 
 ![081522HEK29c18GFPexp3](https://user-images.githubusercontent.com/102187801/184702178-41b2ecf1-5cc5-427b-b91b-f93879084ff1.jpg)
 ![081522HEK29c18GFPexp4](https://user-images.githubusercontent.com/102187801/184702203-7865db67-4aff-40fe-a2f2-b765b596cec5.jpg)
+
+### 8/17 Cells have been split and moved (From p6 to p7!!!!!) from their six well dish into 10 mL dishes for Hirt harvesting. Media has been exchanged for full DMEM media, and cells were observed under a microscope in every dish. Before splitting, cells were photographed. Below shows one colony of pFC9 and both dishes of GFP. Only one dish was needed in order to start the next cell line. I will check on them probably friday. ![081722HEK29c18GFPI](https://user-images.githubusercontent.com/102187801/185257152-da198121-5a5b-47ec-b6ad-b90042ed6836.jpg)
+![081722HEK29c18GFPII](https://user-images.githubusercontent.com/102187801/185257157-3c23fe06-54cc-4f1c-a8a9-7343f086aee8.jpg)
+![081722HEK29c18GFPIII](https://user-images.githubusercontent.com/102187801/185257165-7c507445-9324-47aa-9bb0-763de0496c76.jpg)
+![081722HEK29c18GFPIV](https://user-images.githubusercontent.com/102187801/185257173-cbd739fb-9009-4bf1-82c9-08117225617d.jpg)
+![081722HEK29c18pFC9I](https://user-images.githubusercontent.com/102187801/185257180-b6abd16c-0059-4ff0-becd-b043d265fd83.jpg)
+###### Note: pic above shows the pFC9 colony. 
