@@ -13,3 +13,11 @@
 ![081722HEK29c18GFPIV](https://user-images.githubusercontent.com/102187801/185257173-cbd739fb-9009-4bf1-82c9-08117225617d.jpg)
 ![081722HEK29c18pFC9I](https://user-images.githubusercontent.com/102187801/185257180-b6abd16c-0059-4ff0-becd-b043d265fd83.jpg)
 ###### Note: pic above shows the pFC9 colony. 
+
+### 8/19 Cells appear to be growing and still expressive. Took a photo of both the GFP in the 6 well dish and the GFP in the 10 mL dish. Both show expressiveness. Cells should be ready some time next week based on their confluency. Some dead cells observed, but I want to wait until the media is used up before I wash those off. 
+![081922HEK29c18GFPI](https://user-images.githubusercontent.com/102187801/185693623-3dc2ad54-cb21-43de-9434-2d5573c07ff8.jpg)![081922HEK29c18GFPII](https://user-images.githubusercontent.com/102187801/185693631-f5c1cd7a-5219-40dc-87fd-3b01a2eac042.jpg)
+###### Shows 10 mL dish
+![081922HEK29c18GFPIII](https://user-images.githubusercontent.com/102187801/185693676-d93ac14c-2031-4259-996c-18533bb4394a.jpg)
+![081922HEK29c18GFPIV](https://user-images.githubusercontent.com/102187801/185693687-8f9eabaf-bf48-471e-bbd1-2e7c258c0ecd.jpg)
+###### Shows 6 well dish 
+
